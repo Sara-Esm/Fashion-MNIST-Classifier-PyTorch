@@ -1,4 +1,4 @@
-# PyTorch-Image-Classifier
+# Fashion-MNIST-Classifier-PyTorch
 
 ## Overview
 
