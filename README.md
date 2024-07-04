@@ -1,4 +1,4 @@
-# PyTorch-Image-Classification
+# PyTorch-Image-Classifier
 
 ## Overview
 
